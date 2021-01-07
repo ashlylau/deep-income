@@ -1,0 +1,6 @@
+__pycache__/
+symlink*
+.vscode/
+income_download/
+income_exp/
+income_proc/
